@@ -25,8 +25,8 @@ github.com/RoaringBitmap/roaring v0.4.17/go.mod h1:D3qVegWTmfCaX4Bl5CrBE9hfrSrrX
 github.com/Shopify/sarama v1.19.0/go.mod h1:FVkBWblsNy7DGZRfXLU0O9RCGt5g3g3yEuWXgklEdEo=
 github.com/Shopify/sarama v1.22.1/go.mod h1:FRzlvRpMFO/639zY1SDxUxkqH97Y0ndM5CbGj6oG3As=
 github.com/Shopify/toxiproxy v2.1.4+incompatible/go.mod h1:OXgGpZ6Cli1/URJOF1DMxUHB2q5Ap20/P/eIdh4G0pI=
-github.com/Sirupsen/logrus v0.0.0-20170504071019-5b60b3d3ee01 h1:3FUhX6LIQdNCmFG3XoI8c5N5YTJP7A6mDwhVcEGLJaw=
-github.com/Sirupsen/logrus v0.0.0-20170504071019-5b60b3d3ee01/go.mod h1:rmk17hk6i8ZSAJkSDa7nOxamrG+SP4P0mm+DAvExv4U=
+github.com/sirupsen/logrus v0.0.0-20170504071019-5b60b3d3ee01 h1:3FUhX6LIQdNCmFG3XoI8c5N5YTJP7A6mDwhVcEGLJaw=
+github.com/sirupsen/logrus v0.0.0-20170504071019-5b60b3d3ee01/go.mod h1:rmk17hk6i8ZSAJkSDa7nOxamrG+SP4P0mm+DAvExv4U=
 github.com/Stephen304/goscrape v0.0.0-20150207020750-2d9c5bd77935 h1:FhDH81cZb31WtQ3kbufNbR3sk1PTPmgJCHThhyj1HxQ=
 github.com/Stephen304/goscrape v0.0.0-20150207020750-2d9c5bd77935/go.mod h1:4cDb0RBf1DYNyQHAwQcbCuntkon0DsYM/zL7Vs/YPA4=
 github.com/alecthomas/template v0.0.0-20160405071501-a0175ee3bccc/go.mod h1:LOuyumcjzFXgccqObfd/Ljyb9UuFJ6TxHnclSeseNhc=
