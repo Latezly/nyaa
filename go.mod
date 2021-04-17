@@ -1,4 +1,4 @@
-module github.com/NyaaPantsu/nyaa
+module github.com/Latezly/nyaa_go
 
 go 1.12
 
