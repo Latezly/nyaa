@@ -9,22 +9,22 @@ import (
 	"path"
 	"testing"
 
-	"github.com/NyaaPantsu/nyaa/utils/upload"
-	"github.com/NyaaPantsu/nyaa/utils/validator/announcement"
+	"github.com/Latezly/nyaa_go/utils/upload"
+	"github.com/Latezly/nyaa_go/utils/validator/announcement"
 
 	"strings"
 
 	"time"
 
 	"github.com/CloudyKit/jet"
-	"github.com/NyaaPantsu/nyaa/config"
-	"github.com/NyaaPantsu/nyaa/models"
-	"github.com/NyaaPantsu/nyaa/utils/filelist"
-	"github.com/NyaaPantsu/nyaa/utils/oauth2/client"
-	"github.com/NyaaPantsu/nyaa/utils/publicSettings"
-	"github.com/NyaaPantsu/nyaa/utils/validator/api"
-	"github.com/NyaaPantsu/nyaa/utils/validator/torrent"
-	"github.com/NyaaPantsu/nyaa/utils/validator/user"
+	"github.com/Latezly/nyaa_go/config"
+	"github.com/Latezly/nyaa_go/models"
+	"github.com/Latezly/nyaa_go/utils/filelist"
+	"github.com/Latezly/nyaa_go/utils/oauth2/client"
+	"github.com/Latezly/nyaa_go/utils/publicSettings"
+	"github.com/Latezly/nyaa_go/utils/validator/api"
+	"github.com/Latezly/nyaa_go/utils/validator/torrent"
+	"github.com/Latezly/nyaa_go/utils/validator/user"
 	"github.com/gin-gonic/gin"
 )
 

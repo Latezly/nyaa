@@ -3,8 +3,8 @@ package apiValidator
 import (
 	"strings"
 
-	"github.com/NyaaPantsu/nyaa/models"
-	"github.com/NyaaPantsu/nyaa/utils/sanitize"
+	"github.com/Latezly/nyaa_go/models"
+	"github.com/Latezly/nyaa_go/utils/sanitize"
 )
 
 func (form *CreateForm) Bind(d *models.OauthClient) *models.OauthClient {

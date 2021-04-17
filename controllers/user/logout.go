@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/NyaaPantsu/nyaa/utils/cookies"
+	"github.com/Latezly/nyaa_go/utils/cookies"
 	"github.com/gin-gonic/gin"
 )
 

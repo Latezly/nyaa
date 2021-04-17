@@ -5,13 +5,13 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/NyaaPantsu/nyaa/controllers/router"
-	"github.com/NyaaPantsu/nyaa/models"
-	"github.com/NyaaPantsu/nyaa/models/torrents"
-	"github.com/NyaaPantsu/nyaa/templates"
-	msg "github.com/NyaaPantsu/nyaa/utils/messages"
-	"github.com/NyaaPantsu/nyaa/utils/upload"
-	"github.com/NyaaPantsu/nyaa/utils/validator/torrent"
+	"github.com/Latezly/nyaa_go/controllers/router"
+	"github.com/Latezly/nyaa_go/models"
+	"github.com/Latezly/nyaa_go/models/torrents"
+	"github.com/Latezly/nyaa_go/templates"
+	msg "github.com/Latezly/nyaa_go/utils/messages"
+	"github.com/Latezly/nyaa_go/utils/upload"
+	"github.com/Latezly/nyaa_go/utils/validator/torrent"
 	"github.com/gin-gonic/gin"
 )
 

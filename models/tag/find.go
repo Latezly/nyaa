@@ -1,6 +1,6 @@
 package tags
 
-import "github.com/NyaaPantsu/nyaa/models"
+import "github.com/Latezly/nyaa_go/models"
 
 func FindAll(tagType string, torrentID uint) ([]models.Tag, error) {
 	tags := []models.Tag{}

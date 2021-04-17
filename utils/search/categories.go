@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/NyaaPantsu/nyaa/utils/categories"
+	"github.com/Latezly/nyaa_go/utils/categories"
 )
 
 // Categories multiple torrent categories

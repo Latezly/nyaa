@@ -7,13 +7,13 @@ import (
 	"strconv"
 	"strings"
 
-	msg "github.com/NyaaPantsu/nyaa/utils/messages"
-	"github.com/NyaaPantsu/nyaa/utils/upload"
+	msg "github.com/Latezly/nyaa_go/utils/messages"
+	"github.com/Latezly/nyaa_go/utils/upload"
 
-	"github.com/NyaaPantsu/nyaa/config"
-	"github.com/NyaaPantsu/nyaa/models/torrents"
-	"github.com/NyaaPantsu/nyaa/templates"
-	"github.com/NyaaPantsu/nyaa/utils/format"
+	"github.com/Latezly/nyaa_go/config"
+	"github.com/Latezly/nyaa_go/models/torrents"
+	"github.com/Latezly/nyaa_go/templates"
+	"github.com/Latezly/nyaa_go/utils/format"
 	"github.com/gin-gonic/gin"
 )
 

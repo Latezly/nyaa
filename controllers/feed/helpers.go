@@ -6,12 +6,12 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/NyaaPantsu/nyaa/config"
-	"github.com/NyaaPantsu/nyaa/controllers/router"
-	"github.com/NyaaPantsu/nyaa/models"
-	"github.com/NyaaPantsu/nyaa/models/users"
-	"github.com/NyaaPantsu/nyaa/utils/feeds"
-	"github.com/NyaaPantsu/nyaa/utils/search"
+	"github.com/Latezly/nyaa_go/config"
+	"github.com/Latezly/nyaa_go/controllers/router"
+	"github.com/Latezly/nyaa_go/models"
+	"github.com/Latezly/nyaa_go/models/users"
+	"github.com/Latezly/nyaa_go/utils/feeds"
+	"github.com/Latezly/nyaa_go/utils/search"
 	"github.com/gin-gonic/gin"
 )
 

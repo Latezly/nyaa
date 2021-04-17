@@ -1,6 +1,6 @@
 package search
 
-import "github.com/NyaaPantsu/nyaa/models"
+import "github.com/Latezly/nyaa_go/models"
 
 // TorrentCache torrent cache struct
 type TorrentCache struct {

@@ -1,8 +1,8 @@
 package oauth
 
 import (
-	"github.com/NyaaPantsu/nyaa/utils/log"
-	"github.com/NyaaPantsu/nyaa/utils/oauth2"
+	"github.com/Latezly/nyaa_go/utils/log"
+	"github.com/Latezly/nyaa_go/utils/oauth2"
 	"github.com/gin-gonic/gin"
 	"github.com/ory/fosite"
 )

@@ -8,7 +8,7 @@ import (
 
 	elastic "gopkg.in/olivere/elastic.v5"
 
-	"github.com/NyaaPantsu/nyaa/models"
+	"github.com/Latezly/nyaa_go/models"
 )
 
 // Query : Interface to pass for torrents query

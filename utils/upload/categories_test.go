@@ -3,8 +3,8 @@ package upload
 import (
 	"testing"
 
-	"github.com/NyaaPantsu/nyaa/config"
-	"github.com/NyaaPantsu/nyaa/models"
+	"github.com/Latezly/nyaa_go/config"
+	"github.com/Latezly/nyaa_go/models"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -1,8 +1,8 @@
 package templates
 
 import (
-	"github.com/NyaaPantsu/nyaa/utils/publicSettings"
-	"github.com/NyaaPantsu/nyaa/utils/search"
+	"github.com/Latezly/nyaa_go/utils/publicSettings"
+	"github.com/Latezly/nyaa_go/utils/search"
 	"github.com/gin-gonic/gin"
 )
 

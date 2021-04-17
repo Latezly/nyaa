@@ -7,10 +7,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/NyaaPantsu/nyaa/config"
-	"github.com/NyaaPantsu/nyaa/models"
-	"github.com/NyaaPantsu/nyaa/models/users"
-	"github.com/NyaaPantsu/nyaa/utils/log"
+	"github.com/Latezly/nyaa_go/config"
+	"github.com/Latezly/nyaa_go/models"
+	"github.com/Latezly/nyaa_go/models/users"
+	"github.com/Latezly/nyaa_go/utils/log"
 )
 
 // FilterOrCreate check if a tag type has reached the maximal votes and removes the other tag of the same type

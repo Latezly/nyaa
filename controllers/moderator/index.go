@@ -1,12 +1,12 @@
 package moderatorController
 
 import (
-	"github.com/NyaaPantsu/nyaa/models"
-	"github.com/NyaaPantsu/nyaa/models/comments"
-	"github.com/NyaaPantsu/nyaa/models/reports"
-	"github.com/NyaaPantsu/nyaa/models/torrents"
-	"github.com/NyaaPantsu/nyaa/models/users"
-	"github.com/NyaaPantsu/nyaa/templates"
+	"github.com/Latezly/nyaa_go/models"
+	"github.com/Latezly/nyaa_go/models/comments"
+	"github.com/Latezly/nyaa_go/models/reports"
+	"github.com/Latezly/nyaa_go/models/torrents"
+	"github.com/Latezly/nyaa_go/models/users"
+	"github.com/Latezly/nyaa_go/templates"
 	"github.com/gin-gonic/gin"
 )
 

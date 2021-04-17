@@ -6,10 +6,10 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/NyaaPantsu/nyaa/models"
-	"github.com/NyaaPantsu/nyaa/templates"
-	"github.com/NyaaPantsu/nyaa/utils/log"
-	"github.com/NyaaPantsu/nyaa/utils/metainfo"
+	"github.com/Latezly/nyaa_go/models"
+	"github.com/Latezly/nyaa_go/templates"
+	"github.com/Latezly/nyaa_go/utils/log"
+	"github.com/Latezly/nyaa_go/utils/metainfo"
 	"github.com/gin-gonic/gin"
 )
 

@@ -5,14 +5,14 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/NyaaPantsu/nyaa/config"
-	"github.com/NyaaPantsu/nyaa/controllers/router"
-	"github.com/NyaaPantsu/nyaa/models/comments"
-	"github.com/NyaaPantsu/nyaa/models/torrents"
-	"github.com/NyaaPantsu/nyaa/models"
-	"github.com/NyaaPantsu/nyaa/utils/captcha"
-	msg "github.com/NyaaPantsu/nyaa/utils/messages"
-	"github.com/NyaaPantsu/nyaa/utils/sanitize"
+	"github.com/Latezly/nyaa_go/config"
+	"github.com/Latezly/nyaa_go/controllers/router"
+	"github.com/Latezly/nyaa_go/models/comments"
+	"github.com/Latezly/nyaa_go/models/torrents"
+	"github.com/Latezly/nyaa_go/models"
+	"github.com/Latezly/nyaa_go/utils/captcha"
+	msg "github.com/Latezly/nyaa_go/utils/messages"
+	"github.com/Latezly/nyaa_go/utils/sanitize"
 	"github.com/gin-gonic/gin"
 )
 

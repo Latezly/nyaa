@@ -11,9 +11,9 @@ import (
 
 	"sort"
 
-	"github.com/NyaaPantsu/nyaa/config"
-	"github.com/NyaaPantsu/nyaa/models"
-	"github.com/NyaaPantsu/nyaa/utils/timeHelper"
+	"github.com/Latezly/nyaa_go/config"
+	"github.com/Latezly/nyaa_go/models"
+	"github.com/Latezly/nyaa_go/utils/timeHelper"
 	"github.com/gin-gonic/gin"
 	"github.com/nicksnyder/go-i18n/i18n"
 	"github.com/nicksnyder/go-i18n/i18n/language"

@@ -3,10 +3,10 @@ package search
 import (
 	"time"
 
-	"github.com/NyaaPantsu/nyaa/config"
-	"github.com/NyaaPantsu/nyaa/models"
-	"github.com/NyaaPantsu/nyaa/utils/cache"
-	"github.com/NyaaPantsu/nyaa/utils/log"
+	"github.com/Latezly/nyaa_go/config"
+	"github.com/Latezly/nyaa_go/models"
+	"github.com/Latezly/nyaa_go/utils/cache"
+	"github.com/Latezly/nyaa_go/utils/log"
 	"github.com/gin-gonic/gin"
 )
 

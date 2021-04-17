@@ -4,9 +4,9 @@ import (
 	"errors"
 	"time"
 
-	"github.com/NyaaPantsu/nyaa/models"
-	"github.com/NyaaPantsu/nyaa/utils/cache"
-	"github.com/NyaaPantsu/nyaa/utils/validator/announcement"
+	"github.com/Latezly/nyaa_go/models"
+	"github.com/Latezly/nyaa_go/utils/cache"
+	"github.com/Latezly/nyaa_go/utils/validator/announcement"
 )
 
 const identifierAnnouncement = "system.announcement"

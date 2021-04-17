@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/NyaaPantsu/nyaa/config"
+	"github.com/Latezly/nyaa_go/config"
 	"github.com/anacrolix/torrent/metainfo"
 )
 

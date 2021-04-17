@@ -6,9 +6,9 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/NyaaPantsu/nyaa/models/torrents"
-	"github.com/NyaaPantsu/nyaa/models"
-	"github.com/NyaaPantsu/nyaa/config"
+	"github.com/Latezly/nyaa_go/models/torrents"
+	"github.com/Latezly/nyaa_go/models"
+	"github.com/Latezly/nyaa_go/config"
 	"github.com/Stephen304/goscrape"
 	"github.com/gin-gonic/gin"
 )

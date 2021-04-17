@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/NyaaPantsu/nyaa/models/torrents"
+	"github.com/Latezly/nyaa_go/models/torrents"
 )
 
 func tagsToID(tags string) []string {

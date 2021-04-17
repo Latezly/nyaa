@@ -3,14 +3,14 @@ package oauth
 import (
 	"net/http"
 
-	"github.com/NyaaPantsu/nyaa/controllers/router"
-	"github.com/NyaaPantsu/nyaa/templates"
-	"github.com/NyaaPantsu/nyaa/utils/cookies"
-	"github.com/NyaaPantsu/nyaa/utils/log"
-	msg "github.com/NyaaPantsu/nyaa/utils/messages"
-	"github.com/NyaaPantsu/nyaa/utils/oauth2"
-	"github.com/NyaaPantsu/nyaa/utils/validator"
-	"github.com/NyaaPantsu/nyaa/utils/validator/user"
+	"github.com/Latezly/nyaa_go/controllers/router"
+	"github.com/Latezly/nyaa_go/templates"
+	"github.com/Latezly/nyaa_go/utils/cookies"
+	"github.com/Latezly/nyaa_go/utils/log"
+	msg "github.com/Latezly/nyaa_go/utils/messages"
+	"github.com/Latezly/nyaa_go/utils/oauth2"
+	"github.com/Latezly/nyaa_go/utils/validator"
+	"github.com/Latezly/nyaa_go/utils/validator/user"
 	"github.com/gin-gonic/gin"
 	"github.com/ory/fosite"
 )

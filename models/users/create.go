@@ -5,12 +5,12 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/NyaaPantsu/nyaa/models"
-	"github.com/NyaaPantsu/nyaa/utils/crypto"
-	"github.com/NyaaPantsu/nyaa/utils/log"
-	msg "github.com/NyaaPantsu/nyaa/utils/messages"
-	"github.com/NyaaPantsu/nyaa/utils/validator"
-	"github.com/NyaaPantsu/nyaa/utils/validator/user"
+	"github.com/Latezly/nyaa_go/models"
+	"github.com/Latezly/nyaa_go/utils/crypto"
+	"github.com/Latezly/nyaa_go/utils/log"
+	msg "github.com/Latezly/nyaa_go/utils/messages"
+	"github.com/Latezly/nyaa_go/utils/validator"
+	"github.com/Latezly/nyaa_go/utils/validator/user"
 	"github.com/gin-gonic/gin"
 	"golang.org/x/crypto/bcrypt"
 )

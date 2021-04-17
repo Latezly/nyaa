@@ -4,15 +4,15 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/NyaaPantsu/nyaa/utils/validator/tag"
+	"github.com/Latezly/nyaa_go/utils/validator/tag"
 
-	"github.com/NyaaPantsu/nyaa/models/tag"
+	"github.com/Latezly/nyaa_go/models/tag"
 
-	"github.com/NyaaPantsu/nyaa/config"
-	"github.com/NyaaPantsu/nyaa/models"
-	"github.com/NyaaPantsu/nyaa/utils/sanitize"
-	"github.com/NyaaPantsu/nyaa/utils/search"
-	"github.com/NyaaPantsu/nyaa/utils/validator/torrent"
+	"github.com/Latezly/nyaa_go/config"
+	"github.com/Latezly/nyaa_go/models"
+	"github.com/Latezly/nyaa_go/utils/sanitize"
+	"github.com/Latezly/nyaa_go/utils/search"
+	"github.com/Latezly/nyaa_go/utils/validator/torrent"
 	"github.com/gin-gonic/gin"
 )
 

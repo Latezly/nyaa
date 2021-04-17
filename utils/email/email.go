@@ -3,8 +3,8 @@ package email
 import (
 	"path/filepath"
 
-	"github.com/NyaaPantsu/nyaa/config"
-	"github.com/NyaaPantsu/nyaa/utils/log"
+	"github.com/Latezly/nyaa_go/config"
+	"github.com/Latezly/nyaa_go/utils/log"
 	"gopkg.in/gomail.v2"
 )
 

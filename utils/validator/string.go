@@ -1,7 +1,7 @@
 package validator
 
 import (
-	"github.com/NyaaPantsu/nyaa/utils/messages"
+	"github.com/Latezly/nyaa_go/utils/messages"
 	"github.com/go-playground/validator"
 )
 

@@ -1,7 +1,7 @@
 package cookies
 
 import (
-	"github.com/NyaaPantsu/nyaa/config"
+	"github.com/Latezly/nyaa_go/config"
 )
 
 func getDomainName() string {

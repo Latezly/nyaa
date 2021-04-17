@@ -3,12 +3,12 @@ package torrents
 import (
 	"time"
 
-	"github.com/NyaaPantsu/nyaa/models/tag"
+	"github.com/Latezly/nyaa_go/models/tag"
 
-	"github.com/NyaaPantsu/nyaa/config"
-	"github.com/NyaaPantsu/nyaa/models"
-	"github.com/NyaaPantsu/nyaa/utils/log"
-	"github.com/NyaaPantsu/nyaa/utils/validator/torrent"
+	"github.com/Latezly/nyaa_go/config"
+	"github.com/Latezly/nyaa_go/models"
+	"github.com/Latezly/nyaa_go/utils/log"
+	"github.com/Latezly/nyaa_go/utils/validator/torrent"
 )
 
 // Create a new torrent based on the uploadform request struct

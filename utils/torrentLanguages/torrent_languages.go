@@ -3,8 +3,8 @@ package torrentLanguages
 import (
 	"strings"
 
-	"github.com/NyaaPantsu/nyaa/config"
-	"github.com/NyaaPantsu/nyaa/utils/publicSettings"
+	"github.com/Latezly/nyaa_go/config"
+	"github.com/Latezly/nyaa_go/utils/publicSettings"
 )
 
 var torrentLanguages publicSettings.Languages

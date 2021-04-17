@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/NyaaPantsu/nyaa/models/users"
-	"github.com/NyaaPantsu/nyaa/templates"
-	"github.com/NyaaPantsu/nyaa/utils/log"
+	"github.com/Latezly/nyaa_go/models/users"
+	"github.com/Latezly/nyaa_go/templates"
+	"github.com/Latezly/nyaa_go/utils/log"
 	"github.com/gin-gonic/gin"
 )
 

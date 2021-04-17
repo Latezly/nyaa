@@ -3,11 +3,11 @@ package themeToggleController
 import (
 	"net/http"
 
-	"github.com/NyaaPantsu/nyaa/config"
-	"github.com/NyaaPantsu/nyaa/controllers/router"
-	"github.com/NyaaPantsu/nyaa/utils/timeHelper"
+	"github.com/Latezly/nyaa_go/config"
+	"github.com/Latezly/nyaa_go/controllers/router"
+	"github.com/Latezly/nyaa_go/utils/timeHelper"
 	"github.com/gin-gonic/gin"
-	"github.com/NyaaPantsu/nyaa/utils/publicSettings"
+	"github.com/Latezly/nyaa_go/utils/publicSettings"
 	
 )
 

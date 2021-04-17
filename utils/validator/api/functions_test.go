@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/NyaaPantsu/nyaa/models"
+	"github.com/Latezly/nyaa_go/models"
 )
 
 func TestCreateForm_Bind(t *testing.T) {

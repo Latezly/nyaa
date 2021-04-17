@@ -1,8 +1,8 @@
 package router
 
 import (
-	"github.com/NyaaPantsu/nyaa/models"
-	"github.com/NyaaPantsu/nyaa/utils/cookies"
+	"github.com/Latezly/nyaa_go/models"
+	"github.com/Latezly/nyaa_go/utils/cookies"
 	"github.com/gin-gonic/gin"
 )
 

@@ -3,7 +3,7 @@ package reports
 import (
 	"time"
 
-	"github.com/NyaaPantsu/nyaa/models"
+	"github.com/Latezly/nyaa_go/models"
 	"errors"
 )
 

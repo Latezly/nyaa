@@ -3,8 +3,8 @@ package upload
 import (
 	"fmt"
 
-	"github.com/NyaaPantsu/nyaa/config"
-	"github.com/NyaaPantsu/nyaa/models"
+	"github.com/Latezly/nyaa_go/config"
+	"github.com/Latezly/nyaa_go/models"
 )
 
 // Convert automatically our sukebei cats to platform specified Hentai cats

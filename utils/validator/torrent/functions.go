@@ -11,12 +11,12 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/NyaaPantsu/nyaa/config"
-	"github.com/NyaaPantsu/nyaa/utils/categories"
-	"github.com/NyaaPantsu/nyaa/utils/cookies"
-	msg "github.com/NyaaPantsu/nyaa/utils/messages"
-	"github.com/NyaaPantsu/nyaa/utils/torrentLanguages"
-	"github.com/NyaaPantsu/nyaa/utils/validator/tag"
+	"github.com/Latezly/nyaa_go/config"
+	"github.com/Latezly/nyaa_go/utils/categories"
+	"github.com/Latezly/nyaa_go/utils/cookies"
+	msg "github.com/Latezly/nyaa_go/utils/messages"
+	"github.com/Latezly/nyaa_go/utils/torrentLanguages"
+	"github.com/Latezly/nyaa_go/utils/validator/tag"
 	"github.com/anacrolix/torrent/metainfo"
 	"github.com/gin-gonic/gin"
 )

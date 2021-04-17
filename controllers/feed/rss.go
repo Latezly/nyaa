@@ -7,8 +7,8 @@ import (
 	"time"
 	"fmt"
 
-	"github.com/NyaaPantsu/nyaa/config"
-	"github.com/NyaaPantsu/nyaa/utils/feeds"
+	"github.com/Latezly/nyaa_go/config"
+	"github.com/Latezly/nyaa_go/utils/feeds"
 
 	"github.com/gin-gonic/gin"
 	"github.com/gorilla/feeds"

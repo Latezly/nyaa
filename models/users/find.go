@@ -5,8 +5,8 @@ import (
 	"net/http"
 
 	"github.com/jinzhu/gorm"
-	"github.com/NyaaPantsu/nyaa/models"
-	"github.com/NyaaPantsu/nyaa/utils/log"
+	"github.com/Latezly/nyaa_go/models"
+	"github.com/Latezly/nyaa_go/utils/log"
 )
 
 // FindOrCreateUser creates a user.

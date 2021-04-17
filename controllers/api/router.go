@@ -1,8 +1,8 @@
 package apiController
 
 import (
-	"github.com/NyaaPantsu/nyaa/controllers/middlewares"
-	"github.com/NyaaPantsu/nyaa/controllers/router"
+	"github.com/Latezly/nyaa_go/controllers/middlewares"
+	"github.com/Latezly/nyaa_go/controllers/router"
 )
 
 func init() {

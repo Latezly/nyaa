@@ -9,15 +9,15 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/NyaaPantsu/nyaa/models/users"
+	"github.com/Latezly/nyaa_go/models/users"
 
 	elastic "gopkg.in/olivere/elastic.v5"
 
-	"github.com/NyaaPantsu/nyaa/config"
-	"github.com/NyaaPantsu/nyaa/models"
-	"github.com/NyaaPantsu/nyaa/models/torrents"
-	"github.com/NyaaPantsu/nyaa/utils/log"
-	"github.com/NyaaPantsu/nyaa/utils/publicSettings"
+	"github.com/Latezly/nyaa_go/config"
+	"github.com/Latezly/nyaa_go/models"
+	"github.com/Latezly/nyaa_go/models/torrents"
+	"github.com/Latezly/nyaa_go/utils/log"
+	"github.com/Latezly/nyaa_go/utils/publicSettings"
 	"github.com/gin-gonic/gin"
 )
 

@@ -3,7 +3,7 @@ package middlewares
 import (
 	"net/http"
 
-	"github.com/NyaaPantsu/nyaa/templates"
+	"github.com/Latezly/nyaa_go/templates"
 	"github.com/gin-gonic/gin"
 )
 

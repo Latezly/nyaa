@@ -3,25 +3,25 @@ package controllers
 import (
 	"net/http"
 
-	_ "github.com/NyaaPantsu/nyaa/controllers/activities"    // activities controller
-	_ "github.com/NyaaPantsu/nyaa/controllers/api"           // api controller
-	_ "github.com/NyaaPantsu/nyaa/controllers/captcha"       // captcha controller
-	_ "github.com/NyaaPantsu/nyaa/controllers/databasedumps" // databasedumps controller
-	_ "github.com/NyaaPantsu/nyaa/controllers/faq"           // faq controller
-	_ "github.com/NyaaPantsu/nyaa/controllers/feed"          // feed controller
-	_ "github.com/NyaaPantsu/nyaa/controllers/middlewares"   // middlewares
-	_ "github.com/NyaaPantsu/nyaa/controllers/moderator"     // moderator controller
-	_ "github.com/NyaaPantsu/nyaa/controllers/oauth"         // oauth2 controller
-	_ "github.com/NyaaPantsu/nyaa/controllers/pprof"         // pprof controller
-	_ "github.com/NyaaPantsu/nyaa/controllers/report"        // report controller
-	"github.com/NyaaPantsu/nyaa/controllers/router"
-	_ "github.com/NyaaPantsu/nyaa/controllers/search"   // search controller
-	_ "github.com/NyaaPantsu/nyaa/controllers/settings" // settings controller
-	_ "github.com/NyaaPantsu/nyaa/controllers/static"   // static files
-	_ "github.com/NyaaPantsu/nyaa/controllers/themeToggle" // themeToggle controller
-	_ "github.com/NyaaPantsu/nyaa/controllers/torrent"  // torrent controller
-	_ "github.com/NyaaPantsu/nyaa/controllers/upload"   // upload controller
-	_ "github.com/NyaaPantsu/nyaa/controllers/user"     // user controller
+	_ "github.com/Latezly/nyaa_go/controllers/activities"    // activities controller
+	_ "github.com/Latezly/nyaa_go/controllers/api"           // api controller
+	_ "github.com/Latezly/nyaa_go/controllers/captcha"       // captcha controller
+	_ "github.com/Latezly/nyaa_go/controllers/databasedumps" // databasedumps controller
+	_ "github.com/Latezly/nyaa_go/controllers/faq"           // faq controller
+	_ "github.com/Latezly/nyaa_go/controllers/feed"          // feed controller
+	_ "github.com/Latezly/nyaa_go/controllers/middlewares"   // middlewares
+	_ "github.com/Latezly/nyaa_go/controllers/moderator"     // moderator controller
+	_ "github.com/Latezly/nyaa_go/controllers/oauth"         // oauth2 controller
+	_ "github.com/Latezly/nyaa_go/controllers/pprof"         // pprof controller
+	_ "github.com/Latezly/nyaa_go/controllers/report"        // report controller
+	"github.com/Latezly/nyaa_go/controllers/router"
+	_ "github.com/Latezly/nyaa_go/controllers/search"   // search controller
+	_ "github.com/Latezly/nyaa_go/controllers/settings" // settings controller
+	_ "github.com/Latezly/nyaa_go/controllers/static"   // static files
+	_ "github.com/Latezly/nyaa_go/controllers/themeToggle" // themeToggle controller
+	_ "github.com/Latezly/nyaa_go/controllers/torrent"  // torrent controller
+	_ "github.com/Latezly/nyaa_go/controllers/upload"   // upload controller
+	_ "github.com/Latezly/nyaa_go/controllers/user"     // user controller
 	"github.com/justinas/nosurf"
 )
 

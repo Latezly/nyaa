@@ -5,20 +5,20 @@ import (
 	"path"
 	"strconv"
 
-	"github.com/NyaaPantsu/nyaa/config"
-	"github.com/NyaaPantsu/nyaa/models"
-	"github.com/NyaaPantsu/nyaa/utils/filelist"
-	msg "github.com/NyaaPantsu/nyaa/utils/messages"
-	"github.com/NyaaPantsu/nyaa/utils/publicSettings"
-	"github.com/NyaaPantsu/nyaa/utils/search"
+	"github.com/Latezly/nyaa_go/config"
+	"github.com/Latezly/nyaa_go/models"
+	"github.com/Latezly/nyaa_go/utils/filelist"
+	msg "github.com/Latezly/nyaa_go/utils/messages"
+	"github.com/Latezly/nyaa_go/utils/publicSettings"
+	"github.com/Latezly/nyaa_go/utils/search"
 	"github.com/gin-gonic/gin"
 	"github.com/justinas/nosurf"
 
 	"fmt"
 
 	"github.com/CloudyKit/jet"
-	"github.com/NyaaPantsu/nyaa/utils/cookies"
-	"github.com/NyaaPantsu/nyaa/utils/validator/user"
+	"github.com/Latezly/nyaa_go/utils/cookies"
+	"github.com/Latezly/nyaa_go/utils/validator/user"
 )
 
 // TemplateDir : Variable to the template directory

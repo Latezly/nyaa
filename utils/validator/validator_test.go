@@ -5,9 +5,9 @@ import (
 	"path"
 	"testing"
 
-	"github.com/NyaaPantsu/nyaa/config"
-	"github.com/NyaaPantsu/nyaa/models"
-	msg "github.com/NyaaPantsu/nyaa/utils/messages"
+	"github.com/Latezly/nyaa_go/config"
+	"github.com/Latezly/nyaa_go/models"
+	msg "github.com/Latezly/nyaa_go/utils/messages"
 	"github.com/gin-gonic/gin"
 )
 

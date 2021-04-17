@@ -3,12 +3,12 @@ package middlewares
 import (
 	"net/http"
 
-	"github.com/NyaaPantsu/nyaa/config"
-	"github.com/NyaaPantsu/nyaa/controllers/router"
-	"github.com/NyaaPantsu/nyaa/templates"
-	"github.com/NyaaPantsu/nyaa/utils/log"
-	msg "github.com/NyaaPantsu/nyaa/utils/messages"
-	"github.com/NyaaPantsu/nyaa/utils/oauth2"
+	"github.com/Latezly/nyaa_go/config"
+	"github.com/Latezly/nyaa_go/controllers/router"
+	"github.com/Latezly/nyaa_go/templates"
+	"github.com/Latezly/nyaa_go/utils/log"
+	msg "github.com/Latezly/nyaa_go/utils/messages"
+	"github.com/Latezly/nyaa_go/utils/oauth2"
 	"github.com/gin-gonic/gin"
 	"github.com/ory/fosite"
 )

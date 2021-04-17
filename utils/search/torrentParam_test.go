@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/NyaaPantsu/nyaa/config"
+	"github.com/Latezly/nyaa_go/config"
 	"github.com/gin-gonic/gin"
 	"github.com/stretchr/testify/assert"
 )

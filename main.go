@@ -9,15 +9,15 @@ import (
 	"os"
 	"time"
 
-	"github.com/NyaaPantsu/nyaa/config"
-	"github.com/NyaaPantsu/nyaa/controllers"
-	"github.com/NyaaPantsu/nyaa/controllers/databasedumps"
-	"github.com/NyaaPantsu/nyaa/models"
-	"github.com/NyaaPantsu/nyaa/utils/cookies"
-	"github.com/NyaaPantsu/nyaa/utils/log"
-	"github.com/NyaaPantsu/nyaa/utils/publicSettings"
-	"github.com/NyaaPantsu/nyaa/utils/search"
-	"github.com/NyaaPantsu/nyaa/utils/signals"
+	"github.com/Latezly/nyaa_go/config"
+	"github.com/Latezly/nyaa_go/controllers"
+	"github.com/Latezly/nyaa_go/controllers/databasedumps"
+	"github.com/Latezly/nyaa_go/models"
+	"github.com/Latezly/nyaa_go/utils/cookies"
+	"github.com/Latezly/nyaa_go/utils/log"
+	"github.com/Latezly/nyaa_go/utils/publicSettings"
+	"github.com/Latezly/nyaa_go/utils/search"
+	"github.com/Latezly/nyaa_go/utils/signals"
 )
 
 var buildversion string

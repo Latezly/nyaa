@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/NyaaPantsu/nyaa/utils/publicSettings"
+	"github.com/Latezly/nyaa_go/utils/publicSettings"
 	"github.com/stretchr/testify/assert"
 )
 

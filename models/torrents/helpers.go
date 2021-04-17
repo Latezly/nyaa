@@ -7,11 +7,11 @@ import (
 
 	"html/template"
 
-	"github.com/NyaaPantsu/nyaa/config"
-	"github.com/NyaaPantsu/nyaa/models"
-	"github.com/NyaaPantsu/nyaa/models/activities"
-	"github.com/NyaaPantsu/nyaa/models/notifications"
-	"github.com/NyaaPantsu/nyaa/utils/publicSettings"
+	"github.com/Latezly/nyaa_go/config"
+	"github.com/Latezly/nyaa_go/models"
+	"github.com/Latezly/nyaa_go/models/activities"
+	"github.com/Latezly/nyaa_go/models/notifications"
+	"github.com/Latezly/nyaa_go/utils/publicSettings"
 )
 
 // ExistOrDelete : Check if a torrent exist with the same hash and if it can be replaced, it is replaced

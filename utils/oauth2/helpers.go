@@ -5,10 +5,10 @@ import (
 	"crypto/rsa"
 	"time"
 
-	"github.com/NyaaPantsu/nyaa/utils/oauth2/storage"
+	"github.com/Latezly/nyaa_go/utils/oauth2/storage"
 
-	"github.com/NyaaPantsu/nyaa/config"
-	"github.com/NyaaPantsu/nyaa/utils/oauth2/manager"
+	"github.com/Latezly/nyaa_go/config"
+	"github.com/Latezly/nyaa_go/utils/oauth2/manager"
 	"github.com/ory/fosite"
 	"github.com/ory/fosite/compose"
 	"github.com/ory/fosite/handler/openid"

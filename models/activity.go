@@ -4,7 +4,7 @@ import (
 	"html/template"
 	"strings"
 
-	"github.com/NyaaPantsu/nyaa/config"
+	"github.com/Latezly/nyaa_go/config"
 )
 
 // Activity model

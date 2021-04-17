@@ -3,9 +3,9 @@ package oauth_client
 import (
 	"strings"
 
-	"github.com/NyaaPantsu/nyaa/models"
-	"github.com/NyaaPantsu/nyaa/utils/sanitize"
-	"github.com/NyaaPantsu/nyaa/utils/validator/api"
+	"github.com/Latezly/nyaa_go/models"
+	"github.com/Latezly/nyaa_go/utils/sanitize"
+	"github.com/Latezly/nyaa_go/utils/validator/api"
 )
 
 func Create(form *apiValidator.CreateForm) (*models.OauthClient, error) {

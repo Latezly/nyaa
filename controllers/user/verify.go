@@ -1,9 +1,9 @@
 package userController
 
 import (
-	"github.com/NyaaPantsu/nyaa/templates"
-	"github.com/NyaaPantsu/nyaa/utils/email"
-	msg "github.com/NyaaPantsu/nyaa/utils/messages"
+	"github.com/Latezly/nyaa_go/templates"
+	"github.com/Latezly/nyaa_go/utils/email"
+	msg "github.com/Latezly/nyaa_go/utils/messages"
 	"github.com/gin-gonic/gin"
 )
 

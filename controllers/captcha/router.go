@@ -1,8 +1,8 @@
 package captchaController
 
 import (
-	"github.com/NyaaPantsu/nyaa/controllers/router"
-	"github.com/NyaaPantsu/nyaa/utils/captcha"
+	"github.com/Latezly/nyaa_go/controllers/router"
+	"github.com/Latezly/nyaa_go/utils/captcha"
 )
 
 func init() {

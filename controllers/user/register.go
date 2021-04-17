@@ -3,14 +3,14 @@ package userController
 import (
 	"net/http"
 
-	"github.com/NyaaPantsu/nyaa/models/users"
-	"github.com/NyaaPantsu/nyaa/templates"
-	"github.com/NyaaPantsu/nyaa/utils/captcha"
-	"github.com/NyaaPantsu/nyaa/utils/cookies"
-	"github.com/NyaaPantsu/nyaa/utils/email"
-	msg "github.com/NyaaPantsu/nyaa/utils/messages"
-	"github.com/NyaaPantsu/nyaa/utils/validator"
-	"github.com/NyaaPantsu/nyaa/utils/validator/user"
+	"github.com/Latezly/nyaa_go/models/users"
+	"github.com/Latezly/nyaa_go/templates"
+	"github.com/Latezly/nyaa_go/utils/captcha"
+	"github.com/Latezly/nyaa_go/utils/cookies"
+	"github.com/Latezly/nyaa_go/utils/email"
+	msg "github.com/Latezly/nyaa_go/utils/messages"
+	"github.com/Latezly/nyaa_go/utils/validator"
+	"github.com/Latezly/nyaa_go/utils/validator/user"
 	"github.com/gin-gonic/gin"
 )
 

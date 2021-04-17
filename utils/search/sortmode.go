@@ -1,6 +1,6 @@
 package search
 
-import "github.com/NyaaPantsu/nyaa/config"
+import "github.com/Latezly/nyaa_go/config"
 
 const (
 	ID SortMode = iota

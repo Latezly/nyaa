@@ -1,8 +1,8 @@
 package userController
 
-import "github.com/NyaaPantsu/nyaa/controllers/router"
-import "github.com/NyaaPantsu/nyaa/controllers/feed"
-import "github.com/NyaaPantsu/nyaa/controllers/search"
+import "github.com/Latezly/nyaa_go/controllers/router"
+import "github.com/Latezly/nyaa_go/controllers/feed"
+import "github.com/Latezly/nyaa_go/controllers/search"
 
 func init() {
 

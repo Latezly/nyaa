@@ -4,7 +4,7 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/NyaaPantsu/nyaa/config"
+	"github.com/Latezly/nyaa_go/config"
 	"gopkg.in/olivere/elastic.v5"
 )
 

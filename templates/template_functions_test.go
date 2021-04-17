@@ -11,10 +11,10 @@ import (
 
 	"reflect"
 
-	"github.com/NyaaPantsu/nyaa/config"
-	"github.com/NyaaPantsu/nyaa/models"
-	"github.com/NyaaPantsu/nyaa/utils/categories"
-	"github.com/NyaaPantsu/nyaa/utils/publicSettings"
+	"github.com/Latezly/nyaa_go/config"
+	"github.com/Latezly/nyaa_go/models"
+	"github.com/Latezly/nyaa_go/utils/categories"
+	"github.com/Latezly/nyaa_go/utils/publicSettings"
 )
 
 // run before router/init.go:init()

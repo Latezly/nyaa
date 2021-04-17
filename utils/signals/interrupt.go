@@ -3,7 +3,7 @@ package signals
 import (
 	"sync"
 
-	"github.com/NyaaPantsu/nyaa/utils/log"
+	"github.com/Latezly/nyaa_go/utils/log"
 )
 
 // registered interrupt callbacks.

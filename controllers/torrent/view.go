@@ -4,13 +4,13 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/NyaaPantsu/nyaa/controllers/router"
-	"github.com/NyaaPantsu/nyaa/models/notifications"
-	"github.com/NyaaPantsu/nyaa/models/torrents"
-	"github.com/NyaaPantsu/nyaa/templates"
-	"github.com/NyaaPantsu/nyaa/utils/captcha"
-	"github.com/NyaaPantsu/nyaa/utils/filelist"
-	msg "github.com/NyaaPantsu/nyaa/utils/messages"
+	"github.com/Latezly/nyaa_go/controllers/router"
+	"github.com/Latezly/nyaa_go/models/notifications"
+	"github.com/Latezly/nyaa_go/models/torrents"
+	"github.com/Latezly/nyaa_go/templates"
+	"github.com/Latezly/nyaa_go/utils/captcha"
+	"github.com/Latezly/nyaa_go/utils/filelist"
+	msg "github.com/Latezly/nyaa_go/utils/messages"
 	"github.com/gin-gonic/gin"
 )
 

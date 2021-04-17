@@ -8,8 +8,8 @@ import (
 
 	"strconv"
 
-	"github.com/NyaaPantsu/nyaa/utils/log"
-	msg "github.com/NyaaPantsu/nyaa/utils/messages"
+	"github.com/Latezly/nyaa_go/utils/log"
+	msg "github.com/Latezly/nyaa_go/utils/messages"
 	"github.com/go-playground/validator"
 )
 

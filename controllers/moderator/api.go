@@ -3,7 +3,7 @@ package moderatorController
 import (
 	"net/http"
 
-	msg "github.com/NyaaPantsu/nyaa/utils/messages"
+	msg "github.com/Latezly/nyaa_go/utils/messages"
 	"github.com/gin-gonic/gin"
 )
 

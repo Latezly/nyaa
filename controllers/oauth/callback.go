@@ -5,9 +5,9 @@ import (
 	"net/url"
 	"strings"
 
-	msg "github.com/NyaaPantsu/nyaa/utils/messages"
+	msg "github.com/Latezly/nyaa_go/utils/messages"
 
-	"github.com/NyaaPantsu/nyaa/templates"
+	"github.com/Latezly/nyaa_go/templates"
 	"github.com/gin-gonic/gin"
 	"github.com/ory/fosite"
 	"github.com/parnurzeal/gorequest"

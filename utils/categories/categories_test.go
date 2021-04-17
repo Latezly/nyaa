@@ -8,7 +8,7 @@ import (
 
 	"reflect"
 
-	"github.com/NyaaPantsu/nyaa/config"
+	"github.com/Latezly/nyaa_go/config"
 )
 
 // run before config/parse.go:init()

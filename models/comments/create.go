@@ -3,8 +3,8 @@ package comments
 import (
 	"time"
 
-	"github.com/NyaaPantsu/nyaa/models"
-	"github.com/NyaaPantsu/nyaa/utils/cache"
+	"github.com/Latezly/nyaa_go/models"
+	"github.com/Latezly/nyaa_go/utils/cache"
 )
 
 func Create(content string, torrent *models.Torrent, userID uint) (*models.Comment, error) {
